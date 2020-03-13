@@ -1,6 +1,6 @@
 ---
 # Display name
-name: SeaFlow
+name: Jarred Swalwell
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 
+role: Inventor
 
 # Organizations/Affiliations
 organizations:
@@ -25,18 +25,14 @@ bio: SeaFlow is an shipboard underway flow cytometer that provides continuous si
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: 'mailto:seaflow@uw.edu'  # For a direct email link, use "mailto:test@example.org".
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=%22seaflow%22+%2B+%22cytometer%22&btnG=
-# - icon: mendeley
-#   icon_pack: fab
-#   link: https://www.mendeley.com/research-papers/?query=seaflow%20cytometer  
-# - icon: github
-#   icon_pack: fab
-#   link: https://github.com/topics/seaflow  
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:jarred@uw.edu'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/jarred-swalwell-88579763
+
+
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -45,7 +41,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "seaflow@uw.edu"
+email: "jarred@uw.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -65,4 +61,4 @@ Sample volume, measurement rates and sensitivity equivalent to the best conventi
 - Water quality management
 - Aquaculture
 
- The [SeaFlow Instruments](https://www.seaflowinstruments.com/) manufacturing and support facility is located in beautiful Edmonds, Washington, USA.  Please feel free to [contact SeaFlow Inc.](mailto:seaflowinstruments@gmail.com) with any questions related to the SeaFlow instrument and technologies.
+ The [SeaFlow Instruments](https://www.seaflowinstruments.com/) manufacturing and support facility is located in beautiful Edmonds, Washington, USA.  Please feel free to contact [Jarred](mailto:jarred@uw.edu) with any questions related to the SeaFlow instrument and technologies.
