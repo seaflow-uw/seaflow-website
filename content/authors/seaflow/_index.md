@@ -54,7 +54,7 @@ email: "seaflow@uw.edu"
 # - Visitors
 ---
 The SeaFlow instrument is a shipboard underway flow cytometer that provides continuous multi-parameter single particle measurements without the need for clean water. Sample directly from ship intake while steaming or on station.<br/>
-The SeaFlow instrument was developed by [Jarred Swalwell](https://armbrustlab.ocean.washington.edu/people/swalwell/) at The University of Washington. 
+The SeaFlow instrument was developed by [Jarred Swalwell](https://armbrustlab.ocean.washington.edu/people/swalwell/) at the University of Washington. 
 
 **Performance**
 Sample volume, measurement rates and sensitivity equivalent to the best conventional flow cytometry systems.
