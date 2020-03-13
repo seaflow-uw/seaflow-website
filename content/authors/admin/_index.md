@@ -69,8 +69,8 @@ email: "ribalet@uw.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-# user_groups:
-# - Researchers
+user_groups:
+- "Principal Investigators"
 # - Visitors
 ---
  I am a biological oceanographer working as a senior research scientist at the School of Oceanography at the Univeristy of Washington. I am investigating how unicellular plankton respond to environmental perturbations and ultimately how they adapt to warming oceans. I apply population models to plankton size distribution measured by flow cytometry to estimate rates of cell growth and mortality, two key traits that govern how these organisms interact with their environment.
