@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Senior Computer Specialist
+role: Software Developer
 
 # Organizations/Affiliations
 organizations:
@@ -21,10 +21,10 @@ organizations:
 bio: I do computer things in the lab, mostly in Python, sometimes in Javascript or R.
 
 interests:
-- Python
-- Javascript
-- R
-
+- Compute Infrastructure
+- Software Analysis Tools
+- Reproducible Research
+  
 # education:
 #   courses:
 #   - course: 

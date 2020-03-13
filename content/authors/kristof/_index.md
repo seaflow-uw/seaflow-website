@@ -21,9 +21,8 @@ organizations:
 bio: 
 
 interests:
-- error estimation
-- causal inference
-- ecological modelling
+- Error Estimation
+- Causal Inference
 
 education:
   courses:

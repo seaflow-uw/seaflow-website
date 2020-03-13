@@ -21,10 +21,10 @@ organizations:
 bio: I investigate picophytoplankton distribution and diversity across physical gradients using the SeaFlow underway flow cytometer.
 
 interests:
-- phytoplankton
-- ecology
-- diversity
-- mathematical modeling
+- Phytoplankton
+- Ecology
+- Diversity
+- Mathematical Modeling
 
 education:
   courses:

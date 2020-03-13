@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include phytoplankon ecology, oceanography and flow cytometry.
 
 interests:
-- phytoplankton ecology
-- oceanography
-- flow cytometry
+- Phytoplankton Ecology
+- Oceanography
+- Flow Cytometry
 
 education:
   courses:

@@ -21,8 +21,8 @@ organizations:
 bio: Visit my homepage for more [details](https://armbrustlab.ocean.washington.edu/people/armbrust/)
 
 interests:
-- phytoplankton
-- oceanography
+- Phytoplankton
+- Oceanography
 
 education:
   courses:
