@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Jarred Swalwell
+name: SeaFlow v1
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Inventor
+role: Continuous flow cytometer
 
 # Organizations/Affiliations
 organizations:
@@ -28,11 +28,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:jarred@uw.edu'  # For a direct email link, use "mailto:test@example.org".
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/jarred-swalwell-88579763
-
-
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -49,8 +44,7 @@ email: "jarred@uw.edu"
 # - Researchers
 # - Visitors
 ---
-The SeaFlow instrument is a shipboard underway flow cytometer that provides continuous multi-parameter single particle measurements without the need for clean water. Sample directly from ship intake while steaming or on station.<br/>
-The SeaFlow instrument was developed by [Jarred Swalwell](https://armbrustlab.ocean.washington.edu/people/swalwell/) at the University of Washington. 
+The SeaFlow instrument is a shipboard underway flow cytometer that provides continuous multi-parameter single particle measurements without the need for clean water (more info [here](https://doi.org/10.4319/lom.2011.9.466)). The SeaFlow instrument was developed by [Jarred Swalwell](https://armbrustlab.ocean.washington.edu/people/swalwell/) at the University of Washington. 
 
 **Performance**
 Sample volume, measurement rates and sensitivity equivalent to the best conventional flow cytometry systems.
