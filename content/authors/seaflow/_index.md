@@ -14,7 +14,7 @@ role: Continuous flow cytometer
 
 # Organizations/Affiliations
 organizations:
-- name: SeaFlow Inc.
+- name: SeaFlow Instruments, Inc.
   url: "https://www.seaflowinstruments.com/seaflow-instrument"
 
 # Short bio (displayed in user profile at end of posts)
@@ -44,7 +44,7 @@ email: "jarred@uw.edu"
 # - Researchers
 # - Visitors
 ---
-The SeaFlow instrument is a shipboard underway flow cytometer that provides continuous multi-parameter single particle measurements without the need for clean water (more info [here](https://doi.org/10.4319/lom.2011.9.466)). The SeaFlow instrument was developed by [Jarred Swalwell](https://armbrustlab.ocean.washington.edu/people/swalwell/) at the University of Washington. 
+The SeaFlow instrument is a shipboard underway flow cytometer that provides continuous multi-parameter single particle measurements without the need for clean water ([view instrument details](https://doi.org/10.4319/lom.2011.9.466)). The SeaFlow instrument was developed by [Jarred Swalwell](https://armbrustlab.ocean.washington.edu/people/swalwell/) at the University of Washington. 
 
 **Performance**
 Sample volume, measurement rates and sensitivity equivalent to the best conventional flow cytometry systems.
