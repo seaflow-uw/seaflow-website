@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Senior Research Engineer
+role: Senior Research Scientist
 
 # Organizations/Affiliations
 organizations:
@@ -45,8 +45,8 @@ email: "jarred@uw.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Inventors
+# user_groups:
+# - Inventors
 # - Visitors
 ---
 I develop new instrumentation to study the complex structure of microbial communities in the oceans. My work spans the fields of optical, mechanical, software and electrical/electronic engineering. Instruments such as the SeaFlow sheathless flow cytometer are designed and built from the ground up in my laboratory and machine shop. SeaFlow is currently being operated monthly on Hawaii Ocean Time-Series cruises and annual SCOPE funded cruises. I am currently working on a new flow cytometer for autonomous platforms. This cytometer, named PipeCyte, uses an immersion primary optic combined with sheathless detection optics to perform in situ single cell measurements in any fluid scaled to any size. The first target platform will be on board a CTD to perform continuous depth profiles of the phytoplankton community.

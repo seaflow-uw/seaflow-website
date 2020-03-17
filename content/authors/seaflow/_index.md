@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Continuous flow cytometer
+role: Continuous shipboard flow cytometer
 
 # Organizations/Affiliations
-organizations:
-- name: SeaFlow Instruments, Inc.
-  url: "https://www.seaflowinstruments.com/seaflow-instrument"
+# organizations:
+# - name: SeaFlow Instruments, Inc.
+#   url: "https://www.seaflowinstruments.com/seaflow-instrument"
 
 # Short bio (displayed in user profile at end of posts)
 bio: SeaFlow is an shipboard underway flow cytometer that provides continuous single celled measurements of light scatter and fluorescence of small phytoplankton (< 10 µm). 
@@ -27,7 +27,7 @@ bio: SeaFlow is an shipboard underway flow cytometer that provides continuous si
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:jarred@uw.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:seaflow@uw.edu'  # For a direct email link, use "mailto:test@example.org".
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -44,15 +44,6 @@ email: "jarred@uw.edu"
 # - Researchers
 # - Visitors
 ---
-The SeaFlow instrument is a shipboard underway flow cytometer that provides continuous multi-parameter single particle measurements without the need for clean water ([view instrument details](https://doi.org/10.4319/lom.2011.9.466)). The SeaFlow instrument was developed by [Jarred Swalwell](https://armbrustlab.ocean.washington.edu/people/swalwell/) at the University of Washington. 
+The SeaFlow instrument is a shipboard underway flow cytometer that provides continuous multi-parameter single particle measurements without the need for clean water. The instrument eliminates the traditional need for a sheath fluid by employing a unique optical system that relies on three photodetectors to create a virtual core in the sample stream within which the properties of particles are accurately measured. In this way, the instrument is able to collect the equivalent of 1 sample every 3 minutes or every 1 km (for a ship moving at 10 knots) from the ship’s flow-through seawater system. See [article](https://doi.org/10.4319/lom.2011.9.466) for more information.”
 
-**Performance**
-Sample volume, measurement rates and sensitivity equivalent to the best conventional flow cytometry systems.
-
-​**Applications**
-- Ocean research
-- Environmental monitoring
-- Water quality management
-- Aquaculture
-
- The [SeaFlow Instruments](https://www.seaflowinstruments.com/) manufacturing and support facility is located in beautiful Edmonds, Washington, USA.  Please feel free to contact [Jarred](mailto:jarred@uw.edu) with any questions related to the SeaFlow instrument and technologies.
+The SeaFlow instrument was developed by [Jarred Swalwell](https://armbrustlab.ocean.washington.edu/people/swalwell/) at the University of Washington, and is manufactured by [SeaFlow Instruments, Inc.](https://www.seaflowinstruments.com/) located in beautiful Edmonds, Washington, USA. Please feel free to [contact](mailto:seaflowinstruments@gmail.com) them with any questions related to the SeaFlow instrument and technologies.
