@@ -1,6 +1,6 @@
 ---
 title: seaflowpy
-date: "2017-03-01"
+authors: ["chris"]
 ---
 A Python package for SeaFlow flow cytometer data, available on [Gihub](https://github.com/armbrustlab/seaflowpy).
 

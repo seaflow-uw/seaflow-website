@@ -1,6 +1,6 @@
 ---
 title: Matrix Population Model
-date: "2019-01-01"
+authors: ["kristof","admin"]
 ---
 A size-structured matrix population model to estimate rates of cell division, cell growth and cell mortality of cyanobacteria populations from SeaFlow data.<br/>
 

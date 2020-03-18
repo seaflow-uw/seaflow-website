@@ -1,6 +1,7 @@
 ---
 title: Popcycle
-date: "2014-12-01"
+authors: ["chris","annette","admin"]
+
 ---
 [Popcycle](https://github.com/armbrustlab/popcycle) is an R package (available at[Github](https://github.com/armbrustlab/popcycle)) that offers a reproducible approach to process, calibrate and curate flow cytometry data collected by SeaFlow.<br/>
 The software package performs 3 key analyses:
