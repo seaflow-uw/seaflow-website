@@ -19,13 +19,13 @@
   weight = 40
 
 [[main]]
-  name = "Software"
-  url = "#software"
+  name = "Data"
+  url = "#posts"
   weight = 50
 
 [[main]]
-  name = "Inventory"
-  url = "#posts"
+  name = "Software"
+  url = "#software"
   weight = 60
 
 [[main]]
