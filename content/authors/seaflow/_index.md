@@ -36,7 +36,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "jarred@uw.edu"
+email: "seaflow@uw.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -46,4 +46,4 @@ email: "jarred@uw.edu"
 ---
 The SeaFlow instrument is a shipboard underway flow cytometer that provides continuous multi-parameter single particle measurements without the need for clean water. The instrument eliminates the traditional need for a sheath fluid by employing a unique optical system that relies on three photodetectors to create a virtual core in the sample stream within which the properties of particles are accurately measured. In this way, the instrument is able to collect the equivalent of 1 sample every 3 minutes or every 1 km (for a ship moving at 10 knots) from the ship’s flow-through seawater system. See [article](https://doi.org/10.4319/lom.2011.9.466) for more information.”
 
-The SeaFlow instrument was developed by [Jarred Swalwell](https://armbrustlab.ocean.washington.edu/people/swalwell/) at the University of Washington, and is manufactured by [SeaFlow Instruments, Inc.](https://www.seaflowinstruments.com/) located in beautiful Edmonds, Washington, USA. Please feel free to [contact](mailto:seaflowinstruments@gmail.com) them with any questions related to the SeaFlow instrument and technologies.
+The SeaFlow instrument was developed by [Jarred Swalwell](https://armbrustlab.ocean.washington.edu/people/swalwell/) at the University of Washington, feel free to [contact him](mailto:jarred@uw.edu) with any questions related to the SeaFlow instrument and technologies.
