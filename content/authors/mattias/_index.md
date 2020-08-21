@@ -71,8 +71,8 @@ email: "mcape@uw.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- "Researchers"
+# user_groups:
+# - "Researchers"
 # - Visitors
 ---
 I am a biological oceanographer interested in the way interactions between atmosphere, cryosphere, and ocean impact the biomass, growth, and community composition of phytoplankton. I examine these processes using a combination of ship-based field work, satellite remote-sensing, and lab experiments, taking advantage of new technologies such as the Imaging FlowCytobot and SeaFlow flow cytometers to gain insight into the structure of phytoplankton communities. While I have a particular interest in polar regions, I am currently exploring these research themes in the North Pacific using the wealth of information collected by SeaFlow. I am also interested in science education and experiential learning, taking advantage of opportunities to teach oceanography and field methods with the Sea Education Association.<br/>

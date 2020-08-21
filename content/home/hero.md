@@ -11,7 +11,7 @@ title = "Download SeaFlow data v1"
 # hero_media = "seaFlow-logo.png"
 
 [cta]
-  url = "https://zenodo.org/search?page=1&size=20&q=seaflow"
+  url = "https://doi.org/10.5281/zenodo.2678021"
   label = "Zenodo"
   icon_pack = "fas"
   icon = "download"
@@ -21,7 +21,7 @@ title = "Download SeaFlow data v1"
   label = "available at Simons CMAP"
 
 [cta_note]
-  label = "Data consist of cell abundance, cell diameter and cellular carbon content of the cyanobacteria <i>Prochlorococcus</i>, <i>Synechococcus</i> and <i>Crocosphaera</i>, and a mixture of small unindentified protists (< 10 µm in diameter), collected during 25 oceanographic cruises carried out in the Pacific Ocean between 2010 and 2018. See data description at [Scientifc Data: Nature Publishing Group](https://doi.org/10.1038/s41597-019-0292-2) for more information."
+  label = "The data set consists of SeaFlow-based cell abundance, cell size (equivalent spherical diameter), cellular carbon content and total carbon biomass for picophytoplankton populations, namely the cyanobacteria Prochlorococcus, Synechococcus and small-sized Crocosphaera (2-5 um), and picoeukayotes phytoplankton and nanophytoplankton (2-5 μm ESD), collected during oceanographic cruises since 2010 in the North Pacific Ocean. See data description at [Scientifc Data: Nature Publishing Group](https://doi.org/10.1038/s41597-019-0292-2) for more information."
 
 [design.background]
   # Apply a background color, gradient, or image.
