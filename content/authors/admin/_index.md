@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Research Scientist
+role: Principal Research Scientist
 
 # Organizations/Affiliations
 organizations:
@@ -21,8 +21,8 @@ organizations:
 bio: My research interests include phytoplankon ecology, oceanography and flow cytometry.
 
 interests:
-- Phytoplankton Ecology
 - Oceanography
+- Plankton Ecology
 - Flow Cytometry
 
 education:
