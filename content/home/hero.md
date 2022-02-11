@@ -17,8 +17,8 @@ title = "Download SeaFlow data v1"
   icon = "download"
 
 [cta_alt]
-  url = "https://simonscmap.com/"
-  label = "available at Simons CMAP"
+#  url = "https://simonscmap.com/"
+#  label = "available at Simons CMAP"
 
 [cta_note]
   label = "The data set consists of SeaFlow-based cell abundance, cell size (equivalent spherical diameter), cellular carbon content and total carbon biomass for picophytoplankton populations, namely the cyanobacteria Prochlorococcus, Synechococcus and small-sized Crocosphaera (2-5 um), and picoeukayotes phytoplankton and nanophytoplankton (2-5 μm ESD), collected during oceanographic cruises since 2010 in the North Pacific Ocean. See data description at [Scientifc Data: Nature Publishing Group](https://doi.org/10.1038/s41597-019-0292-2) for more information."
