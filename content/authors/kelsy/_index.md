@@ -18,16 +18,17 @@ organizations:
   url: "https://www.washington.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I operate our BD Influx Cell Sorter to generate and analyze flow cytometry data of phytoplankton and bacterial communities from the field and lab.
+bio: I operate a BD Influx Cell Sorter and SeaFlow to generate and analyze flow cytometry data of phytoplankton and bacterial communities in the field and lab.
 
 interests:
-- Flow cytometry
+- Flow Cytometry
 - Bacteria
 - Phytoplankton
+- Field Research
 
 education:
   courses:
-  - course: BSc in Biological Sciences, Magna Cum Laude
+  - course: BSc in Oceanography, Magna Cum Laude
     institution: University of Washington, Seattle WA
     year: 2019
 
@@ -67,5 +68,5 @@ user_groups:
 - "Researchers"
 # - Visitors
 ---
- I operate our BD Influx Cell Sorter to generate and analyze flow cytometry data of phytoplankton and bacterial communities from the field and lab. <br/>
+ I operate a BD Influx Cell Sorter and [SeaFlow](https://seaflow.netlify.com/) to generate and analyze flow cytometry data of phytoplankton and bacterial communities in the field and lab. <br/>
  Visit my homepage for more [details](https://armbrustlab.ocean.washington.edu/people/cain/)
