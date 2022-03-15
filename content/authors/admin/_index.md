@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Principal Research Scientist
+role: Senior Research Scientist
 
 # Organizations/Affiliations
 organizations:
@@ -18,11 +18,10 @@ organizations:
   url: "https://www.washington.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include phytoplankon ecology, oceanography and flow cytometry.
+bio: My research interests include marine microbial ecology and flow cytometry.
 
 interests:
-- Oceanography
-- Plankton Ecology
+- Microbial Ecology
 - Flow Cytometry
 
 education:
@@ -31,10 +30,10 @@ education:
     institution: Open University, London UK
     year: 2007
   - course: MSc in Biological Oceanology and Marine Environment 
-    institution: University Pierre & Marie Curie, Paris FR
+    institution: Sorbonne University, Paris FR
     year: 2003
   - course: BSc in Population Biology and Ecosystems
-    institution: University Pierre & Marie Curie, Paris FR
+    institution: Sorbonne University, Paris FR
     year: 2001
 
 # Social/Academic Networking
