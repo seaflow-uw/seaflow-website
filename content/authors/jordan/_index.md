@@ -61,7 +61,7 @@ email: "jwinter2@uw.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- "Students"
+- "Alumni"
 # - Visitors
 ---
 Whenever people ask about my work in the Armbrust lab, I tell them I shoot lasers at phytoplankton. And while that may sound much more intense than the reality of prepping samples and making sure the flow cytometer (the laser) is running properly, I am still excited every time I see the thousands of phytoplankton dots appear on a graph. There’s something about seeing how small yet important these animals are that will always fascinate me.
