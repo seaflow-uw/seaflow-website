@@ -18,7 +18,8 @@ organizations:
   url: "https://www.washington.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on ecosystem dynamics and biological feedbacks on marine biogeochemical cycles. 
+bio: 
+My research focuses on ecosystem dynamics and biological feedbacks on marine biogeochemical cycles. 
 
 interests:
 - Population Modeling
@@ -74,4 +75,4 @@ user_groups:
 - "Principal Investigators"
 # - Visitors
 ---
-I am a biological oceanographer working as a research scientist at the University of Washington. My research focuses on ecosystem dynamics and biological feedbacks on marine biogeochemical cycles. I am specialized in delineating microbial community structures and trophic interactions of viruses, bacteria and small-sized phytoplankton and grazers. Marine microbes fix atmospheric CO2, generate biomass, recycle nutrients, and form the basis of the marine food web. They play an important role in regulating the Earth’s climate, yet we don’t know how these organisms will respond to future ocean conditions. My research involves the development of mathematical and data-driven models guided by laboratory, field, and satellite observations to predict cell, population, and ecosystem interactions under current and future ocean conditions. 
+My research focuses on marine microbes and their biological feedbacks on the global carbon cycle. Marine microbes fix atmospheric CO2, generate biomass, recycle nutrients, and form the basis of the marine food web. They play an important role in regulating the Earth’s climate, yet we don’t know how these organisms will respond to future ocean conditions. I develop models guided by laboratory, field, and satellite observations to better understand microbial dynamics under current and future ocean conditions. 
