@@ -5,3 +5,7 @@
 resources/
 public/
 .Rproj.user
+
+themes/
+
+.hugo_build.lock
