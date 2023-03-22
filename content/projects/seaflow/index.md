@@ -2,7 +2,7 @@
 title: Towards Aquatic Flow Cytometry Data Repository and Reproducible Analytical Tools
 date: "2021-03-01"
 ---
-Since 2010, the shipboard underway cytometer SeaFlow has been operated for 17,000 hours across 175,000 km of ocean, collecting over 350,000 samples in surface waters. We have created reproducible analytical methods to uniformly process and curate SeaFlow data. The datasets consist of cell abundance, cell diameter and cellular carbon content of small phytoplankton (< 5 μm), which includes the cyanobacteria <i>Prochlorococcus</i>, <i>Synechococcus</i> and <i>Crocosphaera</i>, and unindentified protists.
+Since 2010, the shipboard underway cytometer SeaFlow has been operated for 788 days across 210,000 km of ocean, counting over 750 billion particles in surface waters. We have created reproducible analytical methods to uniformly process and curate SeaFlow data. The datasets consist of cell abundance, cell diameter and cellular carbon content of small phytoplankton (< 5 μm), which includes the cyanobacteria <i>Prochlorococcus</i>, <i>Synechococcus</i> and <i>Crocosphaera</i>, and unindentified protists.
 
 * Datasets are available [here](https://doi.org/10.5281/zenodo.7102019) without restriction.
 
