@@ -23,6 +23,7 @@ bio: My research focuses on ecosystem dynamics and biological feedbacks on marin
 interests:
 - Population Modeling
 - Microbial Ecology
+- Oceanography
 - Flow Cytometry
 
 
