@@ -1,5 +1,5 @@
 ---
-title : "Disentangling top-down drivers of mortality underlying diel population dynamics of {Prochlorococcus} in the {North} {Pacific} {Subtropical} {Gyre"
+title : "Disentangling top-down drivers of mortality underlying diel population dynamics of Prochlorococcus in the North Pacific Subtropical Gyre"
 date : "2024-03-01"
 authors : ["Stephen J. Beckett", "David Demory", "Ashley R. Coenen", "John R. Casey", "Mathilde Dugenne", "Christopher L. Follett", "Paige Connell", "Michael C. G. Carlson", "Sarah K. Hu", "Samuel T. Wilson", "Daniel Muratore", "Rogelio A. Rodriguez-Gonzalez", "Shengyun Peng", "Kevin W. Becker", "Daniel R. Mende", "E. Virginia Armbrust", "David A. Caron", "Debbie Lindell", "Angelicque E. White", "François Ribalet", "Joshua S. Weitz"]
 publication_types : ["2"]
