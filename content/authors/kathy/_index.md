@@ -60,7 +60,7 @@ email: "klqi@uw.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- "Students"
+# - "Students"
 # - Visitors
 ---
 Corinne joined the SDSC as a senior data scientist in December 2020. She graduated with a PhD in Statistics from the University of Washington in 2020. Her doctoral research focused on representation learning for partitioning problems. Prior to her PhD, she obtained bachelor's degrees in Math, Statistics, and Economics, along with a master's degree in Economics, from Penn State University. Her research interests include deep learning and kernel-based methods, with applications in fields ranging from computer vision to oceanography.

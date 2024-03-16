@@ -65,7 +65,7 @@ email: "kcain97@uw.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- "Researchers"
+- ""
 # - Visitors
 ---
  I operate a BD Influx Cell Sorter and [SeaFlow](https://seaflow.netlify.com/) to generate and analyze flow cytometry data of phytoplankton and bacterial communities in the field and lab. <br/>

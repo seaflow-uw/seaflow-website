@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Chris Berthiaume
+name: Baker van Buren
 
 # Username (this should match the folder name)
 authors:
-- chris
+- baker
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Software Developer
+role: Undergraduate student
 
 # Organizations/Affiliations
 organizations:
@@ -18,20 +18,8 @@ organizations:
   url: "https://www.washington.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I do computer things in the lab, mostly in Python, sometimes in Javascript or R.
 
-interests:
-- Compute Infrastructure
-- Software Analysis Tools
-- Reproducible Research
-  
-# education:
-#   courses:
-#   - course: 
-#     year: 
-#   - course: 
-#     institution: 
-#     year: 
+#interest: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,19 +28,20 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:chrisbee@uw.edu'  # For a direct email link, use "mailto:test@example.org".
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: hhttps://scholar.google.com/citations?user=x3wGrNcAAAAJ&hl=en&oi=ao
+  link: 'mailto:bakervanb@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/baker-van-buren-811014259
 # - icon: orcid
 #   icon_pack: fab
-#   link: https://orcid.org/0000-0001-9610-5883
+#   link: https://orcid.org/0000-0001-8567-3340
 # - icon: mendeley
 #   icon_pack: fab
 #   link: https://www.mendeley.com/profiles/francois-ribalet/  
 - icon: github
   icon_pack: fab
-  link: https://github.com/ctberthiaume 
+  link: https://github.com/bakervb
+ 
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -61,7 +50,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "chrisbee@uw.edu"
+email: "bakervanb@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -69,4 +58,3 @@ user_groups:
 - ""
 # - Visitors
 ---
-I do computer things in the lab, mostly in Python, sometimes in Javascript or R.
