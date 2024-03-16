@@ -72,7 +72,7 @@ email: "ribalet@uw.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- ""
+- "Current Members"
 # - Visitors
 ---
 My research delves into the mechanics governing marine ecosystems and the critical role biological processes play in carbon cycling. 

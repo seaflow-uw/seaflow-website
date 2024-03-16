@@ -66,7 +66,7 @@ email: "chrisbee@uw.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- ""
+- "Current Members"
 # - Visitors
 ---
 I do computer things in the lab, mostly in Python, sometimes in Javascript or R.
