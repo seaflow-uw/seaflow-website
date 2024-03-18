@@ -18,7 +18,7 @@ role: Continuous shipboard flow cytometer
 #   url: "https://www.seaflowinstruments.com/seaflow-instrument"
 
 # Short bio (displayed in user profile at end of posts)
-bio: SeaFlow is an shipboard underway flow cytometer that provides continuous single celled measurements of light scatter and fluorescence of small phytoplankton (< 10 µm). 
+bio: SeaFlow is an shipboard underway flow cytometer that provides continuous single celled measurements of light scatter and fluorescence of small phytoplankton (< 5 µm). 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
