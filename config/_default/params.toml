@@ -81,7 +81,7 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "seaflow@uw.edu"
+email = "ribalet@uw.edu"
 phone = ""
 
 # Address
@@ -90,14 +90,14 @@ address = {street = "Benjamin Hall Interdisciplinary Research Building", city = 
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "47.6551", longitude = "-122.3213"}
+coordinates = {latitude = "47.6514", longitude = "-122.32156"}
 
 # Directions for visitors to locate you.
-directions = "Center for Environmental Genomics - 3rd floor"
+directions = "Ocean Science Building - Office 304"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-# office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
+# office_hours = ["Wednesday 08:00 to 12:00" and 14:00 to 16:00]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 # appointment_url = "https://calendly.com"
@@ -259,7 +259,7 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 0
+  engine = 2
   api_key = ""
   zoom = 14
 
