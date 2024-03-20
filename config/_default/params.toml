@@ -86,14 +86,14 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Benjamin Hall Interdisciplinary Research Building", city = "Seattle", region = "WA", postcode = "98105", country = "United States", country_code = "US"}
+address = {street = "Ocean Sciences Building, 1492 NE Boat St", city = "Seattle", region = "WA", postcode = "98105", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "47.6514", longitude = "-122.32156"}
+coordinates = {latitude = "47.65118", longitude = "-122.31271"}
 
 # Directions for visitors to locate you.
-directions = "Ocean Science Building - Office 304"
+directions = "Office 304"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -259,9 +259,9 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 2
+  engine = 1
   api_key = ""
-  zoom = 14
+  zoom = 15
 
 ############################
 ## Marketing
