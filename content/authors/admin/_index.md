@@ -75,5 +75,6 @@ user_groups:
 - "Current Members"
 # - Visitors
 ---
-As a microbial ecologist, I study the mechanisms that shape the distribution of marine microbes across scales, from the microscopic level to entire ocean basins. My approach is quantitative and interdisciplinary, combining mathematical modeling and statistical analysis to understand these processes and build predictive models of how microbes may respond to future ocean conditions. To test these models, I conduct fieldwork and collect extensive data with our SeaFlow cytometer. 
+As a phytoplankton ecologist, I study the mechanisms that shape the distribution of photosynthetic microbes across scales, from the microscopic level to entire ocean basins. These organisms are responsible for half of the photosynthesis on Earth, playing a critical role in the global carbon cycle and climate regulation. 
+I use a quantitative and interdisciplinary approach, combining mathematical modeling and statistical analysis to understand these processes and predict how phytoplankton may respond to future ocean conditions, including climate-driven changes. To test these models, I conduct fieldwork and collect extensive data using our custom SeaFlow cytometer, which allows for high-frequency, in situ measurements of phytoplankton community composition. 
 
