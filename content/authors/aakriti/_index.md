@@ -29,9 +29,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:aakritiv@uw.edu'  # For a direct email link, use "mailto:test@example.org".
-# - icon: github
-#   icon_pack: fab
-#   link: https://github.com/CristianSwift
+- icon: github
+  icon_pack: fab
+  link: https://github.com/aakriti-vijay
 
  
 

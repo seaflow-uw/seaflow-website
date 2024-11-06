@@ -32,7 +32,9 @@ social:
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/CristianSwift
-
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/yingying-wang-350350295/en
  
 
 # Link to a PDF of your resume/CV from the About widget.
